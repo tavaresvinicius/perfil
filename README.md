@@ -13,3 +13,10 @@
 
 ## Se tiver dúvidas 
 Acesse a documentação no link https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+## Crie seu site:
+- Acesse o repositório que você criou.
+- Use como **modelo** os arquivos desse repositório **Perfil**
+- Crie outros arquivos de origem para o seu site (por exemplo, HTML, CSS).
+- Use sua foto e seus dados que quiser compartilhar.
+    
