@@ -1,7 +1,7 @@
 # Perfil
 
 
-# Criar uma página pessoal no GitHub é uma ótima maneira de compartilhar seu trabalho, projetos ou currículo com outras pessoas. 
+## Criar uma página pessoal no GitHub é uma ótima maneira de compartilhar seu trabalho, projetos ou currículo com outras pessoas. 
 
 ## Crie um repositório para o seu site:
 - Acesse o GitHub e faça login na sua conta.
