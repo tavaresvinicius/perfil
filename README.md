@@ -12,7 +12,12 @@
 - Clique em “Criar repositório”.
 
 ## Se tiver dúvidas 
-Acesse a documentação no link https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site
+- Acesse a documentação no link /br
+
+- (1) Criar um site do GitHub Pages - GitHub Docs. https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site.
+- (2) Início rápido para o GitHub Pages - GitHub Docs. https://docs.github.com/pt/pages/quickstart.
+- (3) Crie sua página pessoal usando React e Github Pages - Coursera. https://www.coursera.org/projects/build-your-personal-webpage-pt-br.
+
 
 ## Crie seu site:
 - Acesse o repositório que você criou.
